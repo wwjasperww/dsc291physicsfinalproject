@@ -80,5 +80,4 @@ sensitivity = step_8_calculate_sensitivity(fitting_inputs, loaded_data, best_fit
 |--------|-------|
 | **Observed Upper Limit (90% CL)** | 14.48 events |
 | **Expected Sensitivity** | 7.53 events |
-| **Ratio (Obs/Exp)** | **3.5×** |
 | **Best-Fit Signal** | 20.94 events |
