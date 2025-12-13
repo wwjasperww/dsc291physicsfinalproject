@@ -10,7 +10,7 @@
 
 This project implements a complete statistical analysis pipeline for searching for **Neutrinoless Double-Beta Decay (NLDBD)** using simulated data inspired by the **Majorana Demonstrator** experiment.
 
---
+---
 
 ## Repository Structure
 
